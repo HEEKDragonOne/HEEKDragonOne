@@ -41,11 +41,6 @@
 </p>
 
 
- 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=HEEKDragonOne&theme=redical">
-</p>
-
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=HEEKDragonOne&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
