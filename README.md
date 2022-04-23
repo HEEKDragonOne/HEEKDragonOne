@@ -19,8 +19,7 @@
 </div> -->
 
 <p align = "center">
-<!--   <img src = "https://github-readme-stats.vercel.app/api?username=HEEKDragonOne&show_icons=true&theme=tokyonight&line_height=27"> -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEEKDragonOne&show_icons=true&theme=tokyonight&line_height=27)
+  <img src = "https://github-readme-stats.vercel.app/api?username=HEEKDragonOne&show_icons=true&theme=tokyonight&include_all_commits&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HEEKDragonOne&theme=radical">
 </p> <br>
 
