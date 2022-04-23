@@ -1,4 +1,6 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=最好的记忆不如最淡的墨水。&center=true&size=27"> </a> </h1>
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /></div>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=HEEKDragonOne&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HEEKDragonOne&theme=radical">
