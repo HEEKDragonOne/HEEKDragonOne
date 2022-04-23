@@ -1,5 +1,4 @@
 <p align = "center">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=HEEKDragonOne&left_color=green&right_color=red)
   <img src = "https://github-readme-stats.vercel.app/api?username=HEEKDragonOne&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HEEKDragonOne&theme=radical">
 </p>
